@@ -5,9 +5,9 @@ After spending countless hours programing with [tomorrow color scheme](https://g
 
 ## Colors
 
-![Colors](joaocampinhos.github.com/Tonight/Images/colors.png)
+![Colors](Images/colors.png)
 
-![Sample](joaocampinhos.github.com/Tonight/Images/sort.png)
+![Sample](Images/sort.png)
 
 
 ## Supported editors
